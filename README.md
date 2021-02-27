@@ -12,7 +12,7 @@ My portfolio which will showcase my skills and talents that will be covered by m
   
  ## Installations
    * [The URL of the Github repo](https://github.com/Dipti2021/Portfolio_DR)
-   * [The URL of the deployed application](https://dipti2021.github.io/Portfolio_DR)
+   * [The URL of the deployed application](https://dipti2021.github.io/Portfolio_DR/)
  
  ## Assignment Details
  The following codes have been created  by me for the __HTML and the CSS files__ that were require for the portfolio:
