@@ -12,12 +12,14 @@ My portfolio which will showcase my skills and talents that will be covered by m
  
  
  ## Webpage Screenshot
- Not the screenshots, but the site looks almost similar to the ones as shown here
- __FOR LAPTOP Display__
+ Not the screenshots, but the site looks almost similar to the ones as shown here.
+ 
+ 
+ __FOR LAPTOP DISPLAY__
  ![Image1](assets/screenshot_laptop_view.png)
   __FOR IPAD DISPLAY__
  ![Image2](assets/display_812.png)
- __FORSMALLER DISPLAYS__
+ __FOR SMALLER DISPLAYS__
  ![Image2](assets/small_display.png)
   
  ## Installations
