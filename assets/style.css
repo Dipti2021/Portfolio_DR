@@ -119,7 +119,7 @@ a:active { /* The user is actively pressing down on the element */
 main {
 	
 	margin: 0 auto;
-	width: 100;
+	width: 100%;
 	clear: both;
 	overflow: hidden;
   }
@@ -131,8 +131,8 @@ main {
 	border: 7px  dotted var(--light); /* use CSS var() function to reference a variable created above */
 	float:left;
 	justify-content: inherit; /* Inherits along the main axis determined by flex-direction */
-    word-wrap: break-word;
-	width: 950px;
+        word-wrap: break-word;
+	width: 100%;
 	border-radius: 25px;
 	margin-right: 70px;
 	
