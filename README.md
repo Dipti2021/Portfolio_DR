@@ -16,15 +16,18 @@ My portfolio which will showcase my skills and talents that will be covered by m
  
  
  __FOR LAPTOP DISPLAY__
+ 
  ![Image1](assets/screenshot_laptop_view.png)
  
  
   __FOR IPAD DISPLAY__
+  
  ![Image2](assets/display_812.png)
  
  
  __FOR SMALLER DISPLAYS__
- ![Image2](assets/small_display.png)
+ 
+ ![Image3](assets/small_display.png)
   
  ## Installations
    * [The URL of the Github repo](https://github.com/Dipti2021/Portfolio_DR)
