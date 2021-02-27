@@ -12,7 +12,7 @@ My portfolio which will showcase my skills and talents that will be covered by m
  
  
  ## Webpage Screenshot
- Not the screenshots, but the site looks almost similar to the ones as shown here.
+ The screenshots here may not be accurate, but the site looks almost similar to the ones as shown here.
  
  
  __FOR LAPTOP DISPLAY__
