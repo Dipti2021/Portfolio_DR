@@ -2,7 +2,6 @@
 /*Style file*/
 /*---CSS styling with comments---*/
 
-
 :root {
 
 	/* custom CSS variables are created and are accessible to all other CSS */
@@ -12,8 +11,8 @@
   
 *{
 	box-sizing: border-box;
-	padding: 5px;
-    margin: 5px;   /* it should be the same for all the codes*/
+	padding: 1px;
+    margin: 0px;   /* it should be the same for all the codes*/
 }
 body { /*background protperties for the code*/
 	background: url("skulls.png");
@@ -120,7 +119,7 @@ a:active { /* The user is actively pressing down on the element */
 main {
 	
 	margin: 0 auto;
-	width: 1000px;
+	width: 100;
 	clear: both;
 	overflow: hidden;
   }
@@ -211,12 +210,25 @@ main {
 	box-shadow: 0 0 2px 3px var(--light); /* used CSS var() function to reference a variable created above */
 }
 .content {
-	bottom:auto;
 	background: var(--light);  /* used CSS var() function to reference a variable created above */
-	
 	color: #f1f1f1;
 	width: 80%;
-	padding: 10px;
+	padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.work1photo{
+	
+	padding:5px;
+	display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width:80%;	
+  
+	
+   
 }
 /*Contact Form*/
 
@@ -338,7 +350,7 @@ input[type=submit] {/*CSS input types for styling, selects form fields that acce
 	   
 	}
 	.AboutMe,.Connect, .MyWork{
-		width: 65%;
+		width: 100%;
   
 	 }
 	
