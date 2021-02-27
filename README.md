@@ -12,6 +12,10 @@ My portfolio which will showcase my skills and talents that will be covered by m
  
  
  ## Webpage Screenshot
+ Not very perfect screenshots but it is almost similar to thr ones as shown here
+ __FOR LAPTOP VIEWING__
+ (assets/screenshot_laptop_view.png)
+ 
   
  ## Installations
    * [The URL of the Github repo](https://github.com/Dipti2021/Portfolio_DR)
