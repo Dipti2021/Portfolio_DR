@@ -24,7 +24,7 @@ My portfolio which will showcase my skills and talents that will be covered by m
     * In the main code of all the HTML files, added alt,href et al attributes as and when required.
     
   * __The .css file:__
-    * Created two CSS fileS, namely __style and reset__
+    * Created two CSS files, namely __style and reset__
     * Used CSS variables to maintain clean and reusable values for a color scheme.
     * Used flexbox and media queries to create a responsive grid layout
     * Styled the portfolio pages with all the required skills.
