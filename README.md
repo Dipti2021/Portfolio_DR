@@ -31,3 +31,19 @@ My portfolio which will showcase my skills and talents that will be covered by m
     * The layout of the page changes as per the device.
 
  ## What to expect when visiting my Portfolio?
+ 1. WHEN you will load my portfolio,THEN you will be presented with my name, a recent photo, and links to sections about me, my work, and how to contact me.
+2. WHEN you click one of the links in the navigation, THEN the UI scrolls to the corresponding section.
+3. WHEN you click on the link to the section about my work, THEN the UI scrolls to a section with titled images of my applications.
+4. WHEN you are presented with my first application, THEN that application's image is larger in size than the others.
+5. WHEN you click on the images of the applications, THEN you am taken to that deployed application.
+6. WHEN you resize the page or view the site on various screens and devices, THEN you are presented with a responsive layout that adapts to my viewport.
+
+   
+ ## Credits
+    The homework has been assigned to me by the Carleton University Coding Bootcamp, our instructor and the TA's
+   
+     
+ 
+ 
+ 
+
