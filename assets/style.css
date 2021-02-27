@@ -131,7 +131,7 @@ main {
 	border: 7px  dotted var(--light); /* use CSS var() function to reference a variable created above */
 	float:left;
 	justify-content: inherit; /* Inherits along the main axis determined by flex-direction */
-        word-wrap: break-word;
+    word-wrap: break-word;
 	width: 100%;
 	border-radius: 25px;
 	margin-right: 70px;
