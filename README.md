@@ -12,10 +12,13 @@ My portfolio which will showcase my skills and talents that will be covered by m
  
  
  ## Webpage Screenshot
- Not very perfect screenshots but it is almost similar to thr ones as shown here
- __FOR LAPTOP VIEWING__
+ Not the screenshots, but the site looks almost similar to the ones as shown here
+ __FOR LAPTOP Display__
  ![Image1](assets/screenshot_laptop_view.png)
- 
+  __FOR IPAD DISPLAY__
+ ![Image2](assets/display_812.png)
+ __FORSMALLER DISPLAYS__
+ ![Image2](assets/small_display.png)
   
  ## Installations
    * [The URL of the Github repo](https://github.com/Dipti2021/Portfolio_DR)
